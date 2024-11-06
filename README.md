@@ -53,7 +53,7 @@ if __name__ == "__main__":
 ```
 ## OUTPUT
 
-![Screenshot 2024-11-04 151716](https://github.com/user-attachments/assets/c8f60aff-94bd-47ce-8d83-ebbc524273cb)
+![329869964-fa965f44-1ee1-4b90-b522-5dfedc27a9d2](https://github.com/user-attachments/assets/8e92d5e4-3af6-4113-951d-b67b58f896da)
 
 
 ## Result
